@@ -17,7 +17,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = ("kotlin-android-template")
+rootProject.name = ("test4")
 
 include(
     "app",
